@@ -1,0 +1,29 @@
+﻿# Node
+node_modules/
+.pnpm-store/
+dist/
+build/
+coverage/
+*.log
+# Next
+.next/
+out/
+# Turborepo
+.turbo/
+# Env
+.env
+.env.*
+!.env.example
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Data (grosses données locales)
+data/cache/
+data/tmp/
